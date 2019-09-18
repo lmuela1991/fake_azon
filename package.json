@@ -1,0 +1,24 @@
+{
+  "name": "fake_azon",
+  "version": "1.0.0",
+  "description": "MYSQL and NODE app, simulating a store",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lmuela1991/fake_azon.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lmuela1991/fake_azon/issues"
+  },
+  "homepage": "https://github.com/lmuela1991/fake_azon#readme",
+  "dependencies": {
+    "console-table": "^0.1.2",
+    "inquirer": "^7.0.0",
+    "mysql": "^2.17.1"
+  }
+}
