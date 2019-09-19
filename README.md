@@ -3,6 +3,8 @@ MYSQL and NODE app, simulating a store
 
 HOW IT WORKS!!
 
+COSTUMER VERSION
+
 1.Costumer will be shown an up to date table of items available in stock and then prompted with the question "What is the ID of the item you like to purchase?"
 
 ![](images/how_to_1.png)
@@ -17,3 +19,6 @@ asking the costumer how many, of that items they will like to purchase.
 3.We will "purchase" 15 in this case, it will confirm the purchase and then update the current stock into our database automatically.
 
 ![](images/Inkedhow_to_3_.jpg)
+
+
+MANAGER AND SUPERVISOR VERSIONS. COMING SOON
